@@ -4,7 +4,7 @@ Data Analyst — Tableau/Power BI • SQL/Snowflake
 •	🔭 Current project:Nissan Motors (Tableau + SQL )
 •	✅ I write tests with pytest and use GitHub Actions (CI)
 •	🌱 Learning: Power BI,Snowflake, Talend ETl basics
-•	🌐 Portfolio/LinkedIn:  ￼ / [teluguwebguru-santosh ](https://www.linkedin.com/in/brahmareddy-mandadi-803899233/)  • 📫 mandadi173@gmail.com
+•	🌐 Portfolio/LinkedIn:  ￼ /(https://www.linkedin.com/in/brahmareddy-mandadi-803899233/)  • 📫 mandadi173@gmail.com
 
 ## Tech
 Tableau ,Power BI, PostgreSQL,SQL
